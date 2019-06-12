@@ -8,7 +8,7 @@ We used the infinity (∞-norm) to calculate the errors.
 We launch streamlines from a uniformly distributed points on a circle of unit-radius around the wellbore. 
 We used the following formula to convert the calculated velocity into volumetric flux:
 
-<h5 align=center> q = ∅Av = ∅[2πh/N<sub>SL</sub> ]v,
+<h5 align=center> q = ∅Av = ∅[2πh/N<sub>SL</sub> ]v, </h5>
 
 where: 
 
